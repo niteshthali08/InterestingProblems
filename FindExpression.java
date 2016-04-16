@@ -1,3 +1,9 @@
+/*
+* Given operators [*, /, -, +] and numbers, find if target can be achieved by applying operations on numbers. 
+* Also print the expression with brackets denoting precedence for obtaining target.
+@author: Nitesh Thali
+*/
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
