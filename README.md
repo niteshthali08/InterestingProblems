@@ -1,2 +1,2 @@
-# InterestingProblems
-Coding for Solving Challenging problems
+# InterestingProblem
+Solving Challenging problems
